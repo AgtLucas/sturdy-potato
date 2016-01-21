@@ -1,0 +1,19 @@
+{
+  "name": "sturdy-potato",
+  "version": "1.0.0",
+  "description": "Walter calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/sturdy-potato.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/sturdy-potato/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/sturdy-potato#readme"
+}
