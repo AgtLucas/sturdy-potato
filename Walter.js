@@ -23,7 +23,7 @@ export default class Walter {
     let price = this.thePrice(bottles)
     let theMoneyIStillhave = initialMoney - price
     let theTotal = theMoneyIStillhave + bottles * TARE_PRICE
-    let theIreration = this.numberOfBottles(theTotal)
+    let theIteration = this.numberOfBottles(theTotal)
 
     if (theIreration) {
       [someWalters, theTotal] = this.theCalculator(theTotal)
